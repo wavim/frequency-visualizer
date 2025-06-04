@@ -1,0 +1,1 @@
+html,body{height:100%;margin:0}body{display:flex;align-items:center;justify-content:space-around;overflow:hidden}div{width:50%;padding:12.5%;aspect-ratio:1;box-sizing:border-box;background-color:#000;background-clip:content-box;transition:rotate .5s;will-change:rotate}input{width:50%;height:100%;padding:0;border:none;outline:none;text-align:center;font-size:4rem}
