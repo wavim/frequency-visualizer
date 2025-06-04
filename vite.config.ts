@@ -13,5 +13,6 @@ export default defineConfig({
 		minify: true,
 		cssMinify: true,
 	},
+	base: "",
 	plugins: [ViteMinifyPlugin()],
 });
